@@ -2,6 +2,8 @@
 
 Veri Yapıları ve Algoritmalar > Insertion Sort Projesi
 
+(Patika.dev)[https://app.patika.dev/emirhankumus]
+
 Proje 1
 [22,27,16,2,18,6] -> Insertion Sort
 
